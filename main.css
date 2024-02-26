@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}.container{background-color:beige;border-radius:3px;margin:30px;padding:25px;transition:height 1s;width:500px}.button{background-color:#0f1de9;border:none;border-radius:5px;color:#fff;font-size:19px;margin-bottom:20px;padding:15px 0;width:100px}.text{border:1px solid #d3d3d3;border-radius:3px;padding:10px}.collapse{display:grid;grid-template-rows:1fr;padding:10px 0;transition:all 1s ease}.collapse.hide{grid-template-rows:0fr;padding:0}.collapse>div{overflow:hidden}
+/*# sourceMappingURL=main.css.map*/
